@@ -11,16 +11,6 @@ const EstiloGlobal = createGlobalStyle`
   list-style: none;
 }
 `
-export const Mask = styled(IMaskInput)`
-  margin-left: -4px;
-  padding: 8px;
-  font-size: 16px;
-  border-radius: 8px;
-  width: 280px;
-  background-color: transparent;
-  border: none;
-  color: #000;
-`
 export const Container = styled.div`
   display: grid;
   grid-template-columns: 240px auto;
