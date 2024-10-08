@@ -1,6 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components'
 import variaveis from './variaveis'
-import { IMaskInput } from 'react-imask'
 
 const EstiloGlobal = createGlobalStyle`
 *{
